@@ -145,5 +145,10 @@ Aprender o básico sobre contribuição no GitHub.
   <img src="https://contrib.rocks/image?repo=elidianaandrade/dio-lab-open-source"/>
 </a>
 
+## Eu contribuí
+<a  href="https://github.com/4ndrad/">
+    <img src "https://th.bing.com/th?q=Imagem+Logo+GitHub&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.1&pid=InlineBlock&mkt=pt-BR&cc=BR&setlang=pt-br&adlt=strict&t=1&mw=247"/>
+</a>
+
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
